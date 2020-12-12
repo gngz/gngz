@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Linux%20-FCC624.svg?&style=for-the-badge&logo=Linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Vultr%20-007BFC.svg?&style=for-the-badge&logo=Vultr&logoColor=white" />
   <img src="https://img.shields.io/badge/Scaleway%20-4F0599.svg?&style=for-the-badge&logo=Scaleway&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ansible%20-%23000000.svg?&style=for-the-badge&logo=Ansible&logoColor=white" />
 </p>
 <!--
 **gngz/gngz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
