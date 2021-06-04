@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/Scaleway%20-4F0599.svg?&style=for-the-badge&logo=Scaleway&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible%20-%23000000.svg?&style=for-the-badge&logo=Ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/nginx%20-129541.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
+
 </p>
 <!--
 **gngz/gngz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
