@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Gonçalo
 
-- :rocket: Currently working as Application Engineer Trainee at UNIPARTNER IT Services!
+- :rocket: Currently working as Application Engineer at UNIPARTNER IT Services!
 - 🌱 Curious about Linux, Docker, Kubernetes, DevOps and Development in general.
 
 ### Where can you find me?
