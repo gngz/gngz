@@ -27,12 +27,13 @@
   <img src="https://img.shields.io/badge/c%20sharp-%23239120.svg?&style=for-the-badge&logo=c%20sharp&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
   <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/dart-%230175C2.svg?&style=for-the-badge&logo=dart&logoColor=white" />
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
+  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next-dot-js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D" />
   <img src="https://img.shields.io/badge/laravel%20-%23FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" />
   
   <img src="https://img.shields.io/badge/Docker%20-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white" />
@@ -41,6 +42,8 @@
   <img src="https://img.shields.io/badge/Vultr%20-007BFC.svg?&style=for-the-badge&logo=Vultr&logoColor=white" />
   <img src="https://img.shields.io/badge/Scaleway%20-4F0599.svg?&style=for-the-badge&logo=Scaleway&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible%20-%23000000.svg?&style=for-the-badge&logo=Ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/nginx%20-129541.svg?&style=for-the-badge&logo=nginx&logoColor=white" />
+
 </p>
 <!--
 **gngz/gngz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
