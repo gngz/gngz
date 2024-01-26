@@ -1,4 +1,6 @@
-## Hi there 👋, I'm Gonçalo
+<img src="/assets/logo.png" alt="Diogo Passos" />
+
+## Hi there 👋, I'm Diogo Passos
 
 - :rocket: Currently working as Software Engineer at Nearsoft!
 - 🌱 Curious about Software Development, Software Architecture, Networks and Infrastructure and Microservices.
