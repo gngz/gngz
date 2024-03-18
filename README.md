@@ -2,7 +2,7 @@
 
 ## Hi there 👋, I'm Diogo Passos
 
-- :rocket: Currently working as Software Engineer at Nearsoft!
+- :rocket: Currently working as Software Engineer at Yacooba Labs!
 - 🌱 Curious about Software Development, Software Architecture, Networks and Infrastructure and Microservices.
 
 ### Where can you find me?
