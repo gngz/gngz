@@ -1,19 +1,16 @@
 <img src="/assets/logo.png" alt="Diogo Passos" />
 
 ## Hi there 👋, I'm Diogo Passos
-
-- :rocket: Currently working as Software Engineer at Yacooba Labs!
+- :rocket: Currently working as Software Engineer at [Yacooba Labs](https://yacoobalabs.com)!
 - 🌱 Curious about Software Development, Software Architecture, Networks and Infrastructure and Microservices.
 
 ### Where can you find me?
 <a href="https://diogopassos.pt">
   <img src="https://img.shields.io/badge/Personal_Page-252A34.svg?&style=for-the-badge" />
 </a>
-
-<a href="https://twitter.com/gdfpassos">
+<a href="https://x.com/gdfpassos">
   <img src="https://img.shields.io/badge/Twitter-14171a?style=for-the-badge&logo=x&logoColor=white" />
 </a>
-
 <a href="https://www.linkedin.com/in/gdfpassos/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
